@@ -2,8 +2,8 @@
 
 <br>
 
-[![Website](https://img.shields.io/website?label=mohieddin.com&style=for-the-badge&url=https%3A%2F%2Fmohie93.github.io/portfolio/index)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MohieddinTanna?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MohieddinTanna)
+[![Website](https://img.shields.io/website?label=mohieddin.com&style=for-the-badge&url=https%3A%2F%2Fmohie93.github.io/portfolio/index)](https://mohie93.github.io/portfolio/index)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MohieddinTanna?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2mohie93&screen_name=MohieddinTanna)
 
 ## I'm a Husband, Father, Software Development Engineer, and Engineering manager [Supahands]!
 
@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mohie | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mohie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mohie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mohie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mohie | Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
+[<img align="left" alt="Mohie | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+[<img align="left" alt="Mohie | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Mohie | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
