@@ -1,9 +1,8 @@
 ### Hi there, I'm Mohieddin Tanna - aka [Mohie][website] 👋
 
-<br>
+<br />
 
 [![Website](https://img.shields.io/website?label=mohieddin.com&style=for-the-badge&url=https%3A%2F%2Fmohie93.github.io/portfolio/index)](https://mohie93.github.io/portfolio/index)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MohieddinTanna?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2mohie93&screen_name=MohieddinTanna)
 
 ## I'm a Husband, Father, Software Development Engineer, and Engineering manager [Supahands]!
 
@@ -20,7 +19,7 @@
 [<img align="left" alt="Mohie | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
