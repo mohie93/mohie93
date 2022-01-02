@@ -3,15 +3,17 @@
 <br />
 
 [![Website](https://img.shields.io/website?label=mohieddin.com&style=for-the-badge&url=https%3A%2F%2Fmohie93.github.io/portfolio/index)](https://mohie93.github.io/portfolio/index)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mohie93)
 
 ## I'm a Husband, Father, Software Development Engineer, and Engineering manager [Supahands]!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other engineering managers
+- 🌱 I’m currently learning everything 🚀
+- 👯 I’m looking to collaborate with other engineering managers and entrepreneurs
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play console games and watch football matches
+- 💬 Ask me about _NodeJs,Srverless, Microservices, and People management_
+- ⚡ Fun facts: I love to play console games and watch football matches
 
-### Connect with me:
+### 📫 How to reach me:
 
 [<img align="left" alt="mohie | Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mohie | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -42,7 +44,10 @@
 <br />
 <br />
 <br />
-[![Mohieedin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohie93&count_private=true&show_icons=true&theme=dark)](https://github.com/mohie93/github-readme-stats)
+
+[![Mohieedin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohie93&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohie93&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [supahands]: https://www.supahands.ai/
 [website]: https://mohie93.github.io/portfolio/index
