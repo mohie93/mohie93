@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🚀
 - 👯 I’m looking to collaborate with other engineering managers and entrepreneurs
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 💬 Ask me about _NodeJs,Srverless, Microservices, and People management_
+- 💬 Ask me about _NodeJs,Serverless, Microservices, and People management_
 - ⚡ Fun facts: I love to play console games and watch football matches
 
 ### 📫 How to reach me:
