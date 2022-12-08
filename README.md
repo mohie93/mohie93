@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohieddintanna" target="blank"><img src="https://img.shields.io/twitter/follow/mohieddintanna?logo=twitter&style=for-the-badge" alt="mohieddintanna" /></a> </p>
 
-- 🔭 I’m currently working on [DataBolt](https://databolt.ai/)
+- 🔭 I’m currently working on my side project `FutSideBud`
 
 - 📝 I regularly write articles on [https://medium.com/@mohie93](https://medium.com/@mohie93)
 
