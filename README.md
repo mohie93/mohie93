@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/mohieddintanna" target="blank"><img src="https://img.shields.io/twitter/follow/mohieddintanna?logo=twitter&style=for-the-badge" alt="mohieddintanna" /></a> </p>
 
-- 🔭 I’m currently working on my side project `FutSideBud`
+- 🔭 I’m currently working as Technical Team Lead @PropertyGuru
 
-- 📝 I regularly write articles on [https://medium.com/@mohie93](https://medium.com/@mohie93)
+- 📝 I regularly (yearly XD) write articles on [https://medium.com/@mohie93](https://medium.com/@mohie93)
 
 - 💬 Ask me about **NodeJs, ExpressJs, AWS, People Management**
 
